@@ -1,0 +1,40 @@
+#font-c{
+    color: blue;
+}
+#logo-name{
+    border: 1px solid rgb(88, 88, 223);
+    background-color:rgb(88, 88, 223) ;
+    padding: 10px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+.navbarSerial{
+    float: left;
+
+}
+.card-m{
+    margin-bottom: 15px;
+}
+
+#hover-add:hover {
+    background-color: rgb(42, 5, 179);
+  }
+.img-size{
+    height: 5%;
+    width: 5%;
+    
+}
+.img-fit{
+    height: 100%;
+}
+.pos{
+    float: left;
+  
+}
+.mar-v{
+    margin-left: 50px;
+}
+#blog-page{
+    display: none;
+}
